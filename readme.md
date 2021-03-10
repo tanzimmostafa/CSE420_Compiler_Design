@@ -1,6 +1,6 @@
-#CSE 420 lab01
+# CSE 420 lab01
 
-#Lexical Analyser
+# Lexical Analyser
 
-#tanzim mostafa
+# tanzim mostafa
 
