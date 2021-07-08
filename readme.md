@@ -1,4 +1,4 @@
-# CSE 420
+# CSE 420: Compiler Design
 ### This is a repository of my lab solutions that I had to do for my CSE420: "Compiler Design" course at Brac University.
 
 Lab1: Lexical Analyzer to build a symbol table: Identifying the numerical values, identifiers, keywords, math operators, logical operators, etc, from a C code  
